@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kitchen set_03
+* source:	https://sketchfab.com/3d-models/kitchen-set-03-d008ddb342914eddb760712cec0c7194
+* author:	Yury Misiyuk (https://sketchfab.com/Tim0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kitchen set_03" (https://sketchfab.com/3d-models/kitchen-set-03-d008ddb342914eddb760712cec0c7194) by Yury Misiyuk (https://sketchfab.com/Tim0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
